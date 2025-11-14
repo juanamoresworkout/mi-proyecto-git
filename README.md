@@ -11,3 +11,4 @@ Esta practica a sido creada y modificada por : *Juan Amores Espinosa*.
 
 ## Linea cambiada en el main 
 Estas son las nuevas modificaciones del rebase.
+Segundo commint en ajustes.
