@@ -11,5 +11,5 @@ Esta practica a sido creada y modificada por : *Juan Amores Espinosa*.
 
 **Aquí voy a petar GitHub**
 
-### Modificación: 
+### Modificación forzando conflicto: 
 Por *Juan Amores Espinosa* 
