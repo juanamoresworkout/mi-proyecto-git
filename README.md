@@ -9,4 +9,4 @@ Incluye ejemplos prácticos realizados con **GitHub Desktop en Windows**, sin us
 ### Creación : 
 Esta practica a sido creada y modificada por : *Juan Amores Espinosa*. 
 
-
+# Linea para el conflicto en el segundo repositorio.  
